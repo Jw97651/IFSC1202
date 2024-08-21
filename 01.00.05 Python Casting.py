@@ -8,7 +8,7 @@ floatval3 = 5.0
  
 strval1 = "6"
 strval2 = "-7.8"
-strval3 = "5a"
+strval3 = "5a"  
  
 print (int(intval1))
 print (int(intval2))
