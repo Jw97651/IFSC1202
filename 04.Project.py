@@ -1,5 +1,5 @@
-start = int(input("Enter Start of Range: "))
-end = int(input("Enter End of Range: "))
+start = int(input("Enter the starting range: "))
+end = int(input("Enter the ending range: "))
 print(f"Prime Numbers between {start} and {end}")
 for num in range(start, end + 1):
     if num > 1:
